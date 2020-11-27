@@ -1,0 +1,8 @@
+#+TITLE: Sample Module Repository
+
+This simple project is an example repo for Python projects and can be used as a starting point for projects.
+
+Forked from [[http://www.kennethreitz.org/essays/repository-structure-and-python]]
+
+
+If you want to learn more about ``setup.py`` files, check out `this repository <https://github.com/kennethreitz/setup.py>`_.
